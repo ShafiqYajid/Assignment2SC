@@ -1,0 +1,10 @@
+com\softcon\todomanagement\service\TodoService.class
+com\softcon\todomanagement\model\Todo.class
+com\softcon\todomanagement\controller\LogoutController.class
+com\softcon\todomanagement\controller\TodoController.class
+com\softcon\todomanagement\TodoManagementSpringBoot2Application.class
+com\softcon\todomanagement\service\ITodoService.class
+com\softcon\todomanagement\controller\ErrorController.class
+com\softcon\todomanagement\security\SecurityConfiguration.class
+com\softcon\todomanagement\controller\WelcomeController.class
+com\softcon\todomanagement\repository\TodoRepository.class
